@@ -1,0 +1,3 @@
+Word,Total Count,Lines from romeo_and_juliet.txt,Lines from othello.txt,Lines from the_tempest.txt,Lines from hamlet.txt
+witchcraft,6,N/A,"[4881, 5008, 6305, 6775]",N/A,"[13669, 17017]"
+royal,10,N/A,"[4639, 6994]","[9761, 9770, 12492, 12619]","[13523, 13708, 17650, 18235]"
